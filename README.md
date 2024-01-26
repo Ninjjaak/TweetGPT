@@ -1,13 +1,11 @@
-## Welcome to My GitHub Page!
+## Tweet-GPT
+### Made and coded by ninjjaak 
 
-This is a sample README showcasing colored text using Markdown.
+### HOW TO USE
+- Copy code
+- Replace user credentials 
+- Pip/Pip3 install dependencies
+- Host local on any port/ publicly host with domain
 
-### Sample Colored Text
-
-- <span style="color:blue">Blue Text</span>
-- <span style="color:red">Red Text</span>
-- <span style="color:green">Green Text</span>
-- <span style="color:orange">Orange Text</span>
-- <span style="color:purple">Purple Text</span>
-
-Feel free to customize and enhance it as per your needs!
+Socials: Discord - ninjjaak 
+USE WISELY. I AM NOT RESPONSIBLE FOR ANY MISUSE OF THIS TOOL!
